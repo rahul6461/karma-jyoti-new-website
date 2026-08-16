@@ -80,7 +80,7 @@ export const gallery = [
     route: "/",
     date: "14th August 2026",
     location:
-    "Conducted Akhiri Ped a Nukkad Natak event, Central Library, IIT ISM Dhanbad, Dhanbad.",n
+    "Conducted Akhiri Ped a Nukkad Natak event, Central Library, IIT ISM Dhanbad, Dhanbad.",
 
 
   },
