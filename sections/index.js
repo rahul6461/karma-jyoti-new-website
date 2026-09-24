@@ -67,6 +67,15 @@ export const navLinks = [
 export const gallery = [
 
   {
+    image: "/images/gallery/SwachhataHiSeva.jpg",
+    route: "/",
+    date: "24th September 2026",
+    location:
+    "Glimpses of Swachhata Hi Seva Campaign at Gosaidih School, Dhanbad.",
+
+
+  },
+  {
     image: "/images/gallery/Orphanage.jpeg",
     route: "/",
     date: "15th August 2026",
