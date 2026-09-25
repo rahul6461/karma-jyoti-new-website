@@ -67,7 +67,7 @@ export const navLinks = [
 export const gallery = [
 
   {
-    image: "/images/gallery/SwachhataHiSeva.jpg",
+    image: "/images/gallery/SwachhataHiSevaHai.jpg",
     route: "/",
     date: "24th September 2026",
     location:
